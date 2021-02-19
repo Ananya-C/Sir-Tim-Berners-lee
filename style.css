@@ -1,0 +1,26 @@
+body{
+  background:linear-gradient(#F44336 0%,#E91E63 50%,#9C27B0 100%);
+  text-align:center
+}
+#img1{
+  border-radius:50%;
+}
+#header{
+text-shadow:2px 2px #F8BBD0;
+  font-size:40px;
+}
+#topic{
+  font-size:30px
+}
+#paragraph{
+  font-size:20px;
+}
+.menu{
+    list-style: none;
+    font-family: fantasy;
+    float: right;
+    top:10px;
+    right: 30px;
+    cursor:pointer;
+    color: black
+}
